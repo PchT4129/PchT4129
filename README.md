@@ -1,6 +1,6 @@
 # Hi, I'm Yixiao 👋
 
-I'm an MSc Robotics and Artificial Intelligence student at University College London, with a background in Computer Science and a strong interest in Spatial AI, multimodal perception, SLAM, computer vision, and autonomous systems.
+I'm currently an MSc Robotics and Artificial Intelligence student at University College London, with a background in Computer Science and a strong interest in Spatial AI, multimodal perception, SLAM, computer vision, and autonomous systems.
 
 My current focus is on building perception systems that go beyond pure geometry by integrating visual, semantic, audio, and spatial information for robotics and intelligent navigation.
 
@@ -55,15 +55,15 @@ Key topics:
 
 ### AI / Perception
 
-Python · PyTorch · OpenCV · Computer Vision · Deep Learning · Visual Place Recognition · SLAM
+Python · PyTorch · OpenCV · Computer Vision · Deep Learning · SLAM
 
 ### Robotics
 
-ROS2 · SLAM Baselines · Sensor Fusion · Spatial AI · Autonomous Systems
+ROS2 · SLAM · Sensor Fusion · Spatial AI · Autonomous Systems
 
 ### Engineering
 
-FastAPI · Docker · Git · Linux / WSL · REST APIs · Backend Development
+FastAPI · Docker · Git · Linux / WSL · REST APIs · Full Stack Development
 
 ### Research & Tools
 
@@ -73,7 +73,7 @@ LaTeX · MATLAB / Simulink · NumPy · Pandas · Jupyter · Obsidian
 
 - MSc Robotics and Artificial Intelligence, University College London
 - BEng Computer Science and Technology, Xiamen University Malaysia
-- Previous experience in backend software engineering, information retrieval, and industrial computer vision
+- Previous experience in AI-assisted full stack development, and industrial computer vision
 
 ## What I'm Looking For
 

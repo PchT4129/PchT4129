@@ -1,5 +1,27 @@
-## Hi, I'm Yixiao 👋
+# Yixiao Tao
 
-I'm an MSc Robotics and Artificial Intelligence student at UCL, focusing on Spatial AI, multimodal perception, SLAM, computer vision, and learning-based robotics systems.
+UCL MSc Robotics and Artificial Intelligence  
+Spatial AI · Multimodal Perception · SLAM · Computer Vision
 
-My current interests lie in building perception systems that go beyond geometry: combining visual, audio, semantic, and spatial information for intelligent robots and autonomous systems.
+## About
+Brief 3–4 lines about your academic background, current research interests, and career direction.
+
+## Featured Projects
+3–5 projects max. Each project should include:
+- one-sentence goal
+- key methods/tools
+- link to repo
+- current status
+
+## Technical Stack
+Group by:
+- AI / Perception
+- Robotics
+- Backend / Engineering
+- Tools
+
+## Current Focus
+- Semantic Audio-Visual SLAM
+- PyTorch-based Visual Place Recognition
+- ROS2 and SLAM baselines
+- Autonomous driving perception roles

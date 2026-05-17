@@ -90,3 +90,4 @@ I'm interested in opportunities related to:
 
 - GitHub: [github.com/PchT4129](https://github.com/PchT4129)
 - Email: i@yixiao-tao.com
+- LinkedIn: https://www.linkedin.com/in/yixiao-tao-44935b260/

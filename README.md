@@ -1,6 +1,6 @@
 # Yixiao Tao
 
-Algorithm engineer working where geometry meets semantics — SLAM, 3D reconstruction, and multimodal grounding for robots.
+I work on spatial intelligence, and the part of robotics where large models meet geometry.
 
 > Large models are very good at telling you *what* something is, and surprisingly bad at telling you *where*. Most of my work lives in that gap.
 

@@ -34,4 +34,4 @@ Detection in cluttered port footage under real deployment constraints.
 Python · PyTorch · OpenCV · ROS 2 · Docker · Linux
 
 ## Elsewhere
-[yixiao-tao.com](https://yixiao-tao.com) (city essays, in Chinese) · i@yixiao-tao.com · [LinkedIn](https://www.linkedin.com/in/yixiao-tao-44935b260/)
+[yixiao-tao.com](https://yixiao-tao.com) · i@yixiao-tao.com · [LinkedIn](https://www.linkedin.com/in/yixiao-tao-44935b260/)

@@ -10,15 +10,15 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 ## Selected work
 
-### SAV-SLAM — evidence-graded audio-visual sound attribution
-*MSc thesis, UCL · supervised by Simon Julier & Sajad Saeedi*
+### SAV-SLAM — Evidence-Graded Audio-Visual Sound Attribution
 
-An iPhone, a $60 four-mic array, and no task-specific training. Every sound the system discovers is either bound to a visible object in a VGGT-SLAM map, or explicitly reported as **ambiguous / unattributed** — because a confident wrong answer is worse than an honest abstention.
+*MSc Thesis, UCL · Supervised by Simon Julier & Sajad Saeedi*
 
-- Association in reprojection space: acoustic bearings → pixel columns, with whole-array SRP-PHAT on Wiener-masked raw channels (spatial phase preserved)
-- 13 scored streams: **6 correct, 4 abstentions, 1 wrong** — against 2 bindings for a semantic-only baseline
-- Re-grounded a HomePod that YOLO had confidently labelled "sports ball", via audio label → SAM3 → bearing election
-- A 14-entry findings ledger of what broke and why — e.g. generative separators silently destroy inter-channel phase
+An audio-visual spatial grounding system that associates sound sources with visible objects in a VGGT-SLAM map, explicitly abstaining when evidence is insufficient.
+
+Technical approach: Acoustic localization (SRP-PHAT) · Geometric reprojection · Visual grounding · Evidence-aware attribution
+
+[Code](#) · [Thesis](#)
 
 [Code](LINK) · [Thesis](LINK)
 

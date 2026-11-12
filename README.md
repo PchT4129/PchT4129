@@ -18,10 +18,6 @@ An audio-visual spatial grounding system that associates sound sources with visi
 
 Technical approach: Acoustic localization (SRP-PHAT) · Geometric reprojection · Visual grounding · Evidence-aware attribution
 
-[Code](#) · [Thesis](#)
-
-[Code](LINK) · [Thesis](LINK)
-
 ### [loop-lens](https://github.com/PchT4129/loop-lens) — visual place recognition for loop closure
 <!-- TODO: one line — backbone / dataset / headline Recall@1 -->
 

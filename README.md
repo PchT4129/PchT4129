@@ -4,7 +4,7 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 > Large models are very good at telling you *what* something is, and surprisingly bad at telling you *where*. Most of my work lives in that gap.
 
-**Now:** working on spatial intelligence & 4D world model in Hangzhou · MSc Robotics & AI, UCL (2026)
+**Now:** working on spatial intelligence & 4D world models in Hangzhou · MSc Robotics & AI, UCL (2026)
 
 ---
 
@@ -21,7 +21,7 @@ Technical approach: Acoustic localization (SRP-PHAT) · Geometric reprojection �
 ### [loop-lens](https://github.com/PchT4129/loop-lens) — Visual Place Recognition for Loop Closure
 <!-- TODO: one line — backbone / dataset / headline Recall@1 -->
 
-### Industrial vehicle detection *(internship)*
+### Port-Side Industrial Visual Perception *(Internship)*
 Detection in cluttered port footage under real deployment constraints.
 
 ---

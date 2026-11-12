@@ -19,7 +19,8 @@ An audio-visual spatial grounding system that associates sound sources with visi
 Technical approach: Acoustic localization (SRP-PHAT) · Geometric reprojection · Visual grounding · Evidence-aware attribution
 
 ### [loop-lens](https://github.com/PchT4129/loop-lens) — Visual Place Recognition for Loop Closure
-<!-- TODO: one line — backbone / dataset / headline Recall@1 -->
+
+A visual place recognition project exploring image-based place matching for loop closure detection in SLAM.
 
 ### Port-Side Industrial Visual Perception *(Internship)*
 Detection in cluttered port footage under real deployment constraints.

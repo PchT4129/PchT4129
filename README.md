@@ -4,7 +4,7 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 > Large models are very good at telling you *what* something is, and surprisingly bad at telling you *where*. Most of my work lives in that gap.
 
-**Now:** joining a spatial-intelligence / 4D world model team in Hangzhou · MSc Robotics & AI, UCL (2026)
+**Now:** working on spatial intelligence & 4D world model in Hangzhou · MSc Robotics & AI, UCL (2026)
 
 ---
 

@@ -12,7 +12,7 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 ### SAV-SLAM — Evidence-Graded Audio-Visual Sound Attribution
 
-*MSc Thesis, UCL · Supervised by Simon Julier & Sajad Saeedi*
+*MSc Thesis, UCL · Supervised by Sajad Saeedi & Simon Julier*
 
 An audio-visual spatial grounding system that associates sound sources with visible objects in a VGGT-SLAM map, explicitly abstaining when evidence is insufficient.
 

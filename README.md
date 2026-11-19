@@ -33,6 +33,8 @@ Detection in cluttered port footage under real deployment constraints.
 - **Spatial grounding** — pinning *what* a model sees to *where* it is
 - **4D reconstruction** — geometry and motion in scenes that won't hold still
 
+---
+
 ## Elsewhere
 [yixiao-tao.com](https://yixiao-tao.com) · i@yixiao-tao.com · [LinkedIn](https://www.linkedin.com/in/yixiao-tao-44935b260/)
 
@@ -40,7 +42,7 @@ Detection in cluttered port footage under real deployment constraints.
 ---
 
 <details>
-<summary><strong>🇨🇳 中文介绍 / About Me in Chinese</strong></summary>
+<summary><strong>🇨🇳 中文简介 / About Me in Chinese</strong></summary>
 
 <br>
 

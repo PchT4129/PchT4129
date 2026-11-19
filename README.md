@@ -4,7 +4,7 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 > Large models are very good at telling you *what* something is, and surprisingly bad at telling you *where*. Most of my work lives in that gap.
 
-**Now:** working on spatial intelligence & 4D world models in Hangzhou · MSc Robotics & AI, UCL (2026)
+**Now:** working on spatial intelligence & 4D world models in Hangzhou · MSc Robotics & AI, UCL (Distinction, 2026)
 
 ---
 
@@ -27,8 +27,6 @@ Detection in cluttered port footage under real deployment constraints.
 
 ---
 
-## Toolbox
-Python · PyTorch · OpenCV · ROS 2 · Docker · Linux
 
 ## Elsewhere
 [yixiao-tao.com](https://yixiao-tao.com) · i@yixiao-tao.com · [LinkedIn](https://www.linkedin.com/in/yixiao-tao-44935b260/)
@@ -64,10 +62,6 @@ UCL 硕士毕业论文 · 导师：Sajad Saeedi、Simon Julier
 **港区工业视觉检测（实习项目）**
 
 面向复杂港口监控场景，在真实部署约束下开展目标检测。
-
-### 技术栈
-
-Python · PyTorch · OpenCV · ROS 2 · Docker · Linux
 
 </details>
 

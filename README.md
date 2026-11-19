@@ -16,7 +16,6 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 An audio-visual spatial grounding system that associates sound sources with visible objects in a VGGT-SLAM map, explicitly abstaining when evidence is insufficient.
 
-Technical approach: Acoustic localization (SRP-PHAT) · Geometric reprojection · Visual grounding · Evidence-aware attribution
 
 ### [loop-lens](https://github.com/PchT4129/loop-lens) — Visual Place Recognition for Loop Closure
 

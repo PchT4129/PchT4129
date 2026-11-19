@@ -26,6 +26,12 @@ Detection in cluttered port footage under real deployment constraints.
 
 ---
 
+## Currently digging into
+
+- **Scene representations** — storing a world so it's renderable and queryable
+- **Feedforward 3D models** — one-pass reconstruction, and where classical geometry still matters
+- **Spatial grounding** — pinning *what* a model sees to *where* it is
+- **4D reconstruction** — geometry and motion in scenes that won't hold still
 
 ## Elsewhere
 [yixiao-tao.com](https://yixiao-tao.com) · i@yixiao-tao.com · [LinkedIn](https://www.linkedin.com/in/yixiao-tao-44935b260/)

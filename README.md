@@ -52,7 +52,7 @@ Detection in cluttered port footage under real deployment constraints.
 
 大模型非常擅长理解一个物体**是什么**，却未必擅长准确判断它**在哪里**。我的研究与工程实践主要围绕这一差距展开。
 
-**目前：** 在杭州从事空间智能与 4D 世界模型相关研发 · 伦敦大学学院（UCL）机器人与人工智能硕士（Distinction 2026）
+**目前：** 在杭州从事空间智能与 4D 世界模型相关研发 · 伦敦大学学院（UCL）机器人与人工智能硕士（Distinction，2026）
 
 ### 代表项目
 

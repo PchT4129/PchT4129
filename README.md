@@ -14,24 +14,23 @@ I work on spatial intelligence, and the part of robotics where large models meet
 
 *MSc Thesis, UCL · Supervised by Sajad Saeedi & Simon Julier*
 
-An audio-visual spatial grounding system that associates sound sources with visible objects in a VGGT-SLAM map, explicitly abstaining when evidence is insufficient.
+Associates sound sources with visible objects in a VGGT-SLAM map, with no task-specific training, and explicitly abstains when the evidence isn't there.
 
 
 ### [loop-lens](https://github.com/PchT4129/loop-lens) — Visual Place Recognition for Loop Closure
 
-A visual place recognition project exploring image-based place matching for loop closure detection in SLAM.
+Swapped a classical CNN backbone for DINO, then optimized inference until it fit inside a real-time loop-closure budget.
 
 ### Port-Side Industrial Visual Perception *(Internship)*
 Detection in cluttered port footage under real deployment constraints.
 
 ---
 
-## Currently digging into
+## Currently digging into: queryable 3D/4D world models
 
-- **Scene representations** — storing a world so it's renderable and queryable
-- **Feedforward 3D models** — one-pass reconstruction, and where classical geometry still matters
-- **Spatial grounding** — pinning *what* a model sees to *where* it is
-- **4D reconstruction** — geometry and motion in scenes that won't hold still
+- **Represent** — scenes that render in real time and answer semantic queries
+- **Build** — feedforward reconstruction, from scenes that hold still to scenes that don't
+- **Use** — spatial grounding, from *what* to *where*
 
 ---
 

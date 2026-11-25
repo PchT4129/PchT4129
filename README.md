@@ -29,7 +29,7 @@ Detection in cluttered port footage under real deployment constraints.
 ## Currently digging into: queryable 3D/4D world models
 
 - **Represent** — scenes that render in real time and answer semantic queries
-- **Build** — feedforward reconstruction, from scenes that hold still to scenes that don't
+- **Build** — feed-forward reconstruction, from scenes that hold still to scenes that don't
 - **Use** — spatial grounding, from *what* to *where*
 
 ---

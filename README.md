@@ -1,4 +1,4 @@
-Yixiao Tao
+## Yixiao Tao
 
 I work on spatial intelligence, and the part of robotics where large models meet geometry.
 

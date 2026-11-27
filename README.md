@@ -1,4 +1,4 @@
-<img width="1182" height="773" alt="image" src="https://github.com/user-attachments/assets/25f7851f-bc8e-4c1d-97df-a627bdf9e908" /># Yixiao Tao
+Yixiao Tao
 
 I work on spatial intelligence, and the part of robotics where large models meet geometry.
 

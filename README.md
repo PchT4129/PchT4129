@@ -55,6 +55,10 @@ Detection in cluttered port footage under real deployment constraints.
 
 ### 代表项目
 
+**基于 LiDAR 的移动端三维数采（在研）**
+
+3DGS 重建质量的瓶颈往往不在后端算法，而在前端数据质量；而传统专业采集设备的成本又难以控制。为此，正在 iPhone Pro 系列上开发基于 LiDAR 的低成本数据采集端。
+
 **SAV-SLAM — 基于证据分级的视听声源归属系统**
 
 UCL 硕士毕业论文 · 导师：Sajad Saeedi、Simon Julier

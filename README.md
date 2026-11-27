@@ -1,4 +1,4 @@
-# Yixiao Tao
+<img width="1182" height="773" alt="image" src="https://github.com/user-attachments/assets/25f7851f-bc8e-4c1d-97df-a627bdf9e908" /># Yixiao Tao
 
 I work on spatial intelligence, and the part of robotics where large models meet geometry.
 
@@ -9,6 +9,11 @@ I work on spatial intelligence, and the part of robotics where large models meet
 ---
 
 ## Selected work
+
+### LiDAR-based 3D Data Capture on Mobile (in progress)
+
+The bottleneck in 3DGS reconstruction quality often lies not in the backend algorithms, but in the quality of the captured data — while professional capture hardware remains costly. To address this, I am developing a low-cost, LiDAR-based data capture front end for the iPhone Pro series.
+
 
 ### SAV-SLAM — Evidence-Graded Audio-Visual Sound Attribution
 
